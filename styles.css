@@ -3,6 +3,7 @@ body {
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -13,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(168, 113, 40);
+    background: rgb(124, 82, 43);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -30,10 +31,6 @@ h1 {
 
 p {
     font-size: 20px;
-}
-
-img {
-    height: 200px;
 }
 
 .categoria-videos {
